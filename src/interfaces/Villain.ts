@@ -1,4 +1,4 @@
 export interface Villain {
   name: string,
-  dengerLevel: number
+  dangerLevel: number
 }
